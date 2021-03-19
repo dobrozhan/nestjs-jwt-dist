@@ -7,7 +7,7 @@ Token for API test
 JWT = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImtlZXAiLCJlbWFpbCI6ImRvYnJvemhhbi5hQGdtYWlsLmNvbSIsImlhdCI6MTYxNjE0MTgxOSwiZXhwIjoxNjE2NzQ2NjE5fQ.Gt0GP9MutUoGm0K_b_IZN38O2wUIqHvOxHre984amnE'
 
 
-In case, you need to generate JWT and perform  API test on this project, you can follow next steps
+In case, you need to generate JWT and perform  API test on this project, please follow the next steps
 
 
 a) Using predefined JWT
